@@ -101,5 +101,23 @@
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\memo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\hat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\chart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\man-technologist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\user-guest.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

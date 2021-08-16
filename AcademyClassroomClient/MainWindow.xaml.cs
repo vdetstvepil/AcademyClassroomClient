@@ -24,5 +24,10 @@ namespace AcademyClassroomClient
         {
             InitializeComponent();
         }
+
+        private void homeworkMainBtn_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+            MessageBox.Show("warni");
+        }
     }
 }
